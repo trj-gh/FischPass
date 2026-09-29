@@ -1,0 +1,24 @@
+{
+  "name": "FischPass Sachsen – Fischereiprüfung",
+  "short_name": "FischPass",
+  "description": "Offline-Lerntrainer für die Fischereiprüfung in Sachsen",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5ef",
+  "theme_color": "#133e33",
+  "lang": "de-DE",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
